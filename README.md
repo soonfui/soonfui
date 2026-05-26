@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **soonfui/soonfui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+# Hi, I'm Aiden Chong 👋
+
+Software Engineering student from Malaysia 🇲🇾
+
+Focused on:
+- Java Backend Development
+- Spring Boot
+- MySQL
+- REST API
+- Cloud & System Design
+
+Currently improving:
+- Data Structures & Algorithms
+- System Architecture
+- Full-stack Engineering
